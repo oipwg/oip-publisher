@@ -1,0 +1,16 @@
+{
+  "name": "oip-publisher",
+  "version": "1.0.0",
+  "description": "Easily broadcast Artifacts to OIP!",
+  "main": "index.js",
+  "dependencies": {
+    "ipfs-api": "^23.0.0",
+    "ipfs": "^0.31.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sky Young <sky@alexandria.io>",
+  "license": "MIT"
+}
